@@ -48,6 +48,9 @@ linked-list/ │ ├── main.c
 3. Delete a node by value.
 4. Display the list.
 
+## 👨‍💻 Author
+Submitted for CODTECH Internship 2025
+
 ## ⚙️ Output 
 ![Image](https://github.com/user-attachments/assets/5066d4b3-224b-4777-82a8-fbdde2785461)
 
