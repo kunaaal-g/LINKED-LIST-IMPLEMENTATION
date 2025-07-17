@@ -1,4 +1,4 @@
-8# LINKED-LIST-IMPLEMENTATION
+# LINKED-LIST-IMPLEMENTATION
 
 COMPANY CODTECH IT SOLUTIONS
 
@@ -48,12 +48,6 @@ linked-list/ │ ├── main.c
 3. Delete a node by value.
 4. Display the list.
 
-## ⚙️ How to Compile
+## ⚙️ Output 
+![Image](https://github.com/user-attachments/assets/5066d4b3-224b-4777-82a8-fbdde2785461)
 
-You can compile the program using `gcc`:
-```bash
-gcc main.c linked_list.c -o linked_list
-./linked_list
-
-## Output
-![Image](https://github.com/user-attachments/assets/c7d21bdf-47b6-4cde-ad3a-b3c0a3ca6729)
