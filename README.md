@@ -1,4 +1,4 @@
-# LINKED-LIST-IMPLEMENTATION
+8# LINKED-LIST-IMPLEMENTATION
 
 COMPANY CODTECH IT SOLUTIONS
 
@@ -55,4 +55,5 @@ You can compile the program using `gcc`:
 gcc main.c linked_list.c -o linked_list
 ./linked_list
 
-## Output 
+## Output
+![Image](https://github.com/user-attachments/assets/c7d21bdf-47b6-4cde-ad3a-b3c0a3ca6729)
